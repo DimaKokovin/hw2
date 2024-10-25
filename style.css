@@ -40,7 +40,7 @@ header span {
 
   font-weight: 700;
   font-size: 48px;
-  margin-bottom: 42px;
+  margin-bottom: 20px;
   font-family: "Inter Bold", sans-serif;
 }
 
@@ -90,7 +90,7 @@ select {
 .frameworks-list {
   /* Стили для маркированного списка во второй секции */
   list-style-image: url(solar_map-arrow-up-bold.png);
-  padding-left: 25px;
+  padding: 0 25px;
 
   font-weight: 400;
   font-size: 16px;
