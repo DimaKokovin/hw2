@@ -163,6 +163,8 @@ td {
   /* font-weight: 700; */
   /* font-size: 14px;    !!!!!!!!!!!!!!!!! */
   text-align: center;
+  padding: 12px 15px;
+  white-space: nowrap;
 
   /* font-weight: 400; */
 }
